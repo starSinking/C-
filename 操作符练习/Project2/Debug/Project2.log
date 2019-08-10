@@ -1,0 +1,4 @@
+﻿  test.c
+e:\c语言\day10\project2\project2\test.c(85): warning C4013: “system”未定义；假设外部返回 int
+  Project2.vcxproj -> E:\c语言\day10\Project2\Debug\Project2.exe
+  Project2.vcxproj -> E:\c语言\day10\Project2\Debug\Project2.pdb (Partial PDB)
